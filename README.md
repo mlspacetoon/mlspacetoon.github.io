@@ -1,2 +1,2 @@
-# Botsaya
-Mencoba belajar
+*By Creator: Xeberlhyn
+LIV 2020
