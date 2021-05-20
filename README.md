@@ -18,3 +18,5 @@
     <a href="https://instagram.com/itspapoy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="putra.go.id" height="30" width="40" /></a>
   </p>
 </details>
+
+<img align="center" height="auto" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"/>
